@@ -1,0 +1,12 @@
+.project
+.settings
+.classpath
+*.iml
+target
+*.bak
+target/site/clover
+*.class
+*.rpm
+*.class
+*.DS_Store
+hive-scripts/src/main/scripts/import-all.sh
